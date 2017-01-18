@@ -8,6 +8,6 @@ a simple webserver with jsp ,servlet and java bean
 - Eclipse Version: Neon.2 Release (4.6.2)
 
 ##Screenshots
-![Screenshot 0](https://raw.githubusercontent.com/zealot2002/jspServletJavabeanServer/screenshots/CDA8B2F1-6A4B-4E70-B9C2-95EE3FB2782D.png)
+![Screenshot 0](https://raw.githubusercontent.com/zealot2002/jspServletJavabeanServer/master/screenshots/CDA8B2F1-6A4B-4E70-B9C2-95EE3FB2782D.png)
 
 
